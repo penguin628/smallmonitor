@@ -1,5 +1,4 @@
 nose
-python3-pymysql
 django
 django-ipware
 pymysql
