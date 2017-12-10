@@ -1,5 +1,5 @@
 nose
-django==1.8.2
+django
 django-ipware
 pymysql
 djangorestframework
